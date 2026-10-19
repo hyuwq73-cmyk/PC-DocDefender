@@ -1,5 +1,4 @@
 # PC-DocDefender
-Free Windows security and system diagnostics tool. Diagnose. Detect. Defend.
 Hello, I'm the developer of "PC DocDefender"! 👋
 
 Hello everyone! I'm the developer of PC DocDefender, a freeware project for Windows, focused on computer system security and diagnostics.
